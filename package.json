@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "main": "MetaPhysics.js",
   "scripts": {
-    "start": "node bot.js"
+    "start": "metaphysics13.js"
   },
   "dependencies": {
     "discord.js": "11.1.0",
