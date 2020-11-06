@@ -1,1 +1,1 @@
-worker: node bot.js
+worker: metaphysics13.js
